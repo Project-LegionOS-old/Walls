@@ -1,5 +1,13 @@
 [
       {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/abstract_gost2op1.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/abstract_gost2op1.png",
+         "name":"abstract_gost2op1",
+         "collections": "Abstracts",
+         "copyright": "Credits to its creator"
+      },
+	  {
          "author": "Prashant",
          "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/prashant/abstract_01.png",
          "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/prashant/abstract_01.png",
@@ -37,6 +45,46 @@
          "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/anonhacker/abstract_01.png",
          "name":"abstract_01",
          "collections": "Abstracts",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op1.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op1.png",
+         "name":"anime_gost2op1",
+         "collections": "Animes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op2.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op2.png",
+         "name":"anime_gost2op2",
+         "collections": "Animes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op3.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op3.png",
+         "name":"anime_gost2op3",
+         "collections": "Animes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op4.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op4.png",
+         "name":"anime_gost2op4",
+         "collections": "Animes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op5.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/anime_gost2op5.png",
+         "name":"anime_gost2op5",
+         "collections": "Animes",
          "copyright": "Credits to its creator"
       },
       {
@@ -85,6 +133,38 @@
          "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/Cortezz0/anime_cortezz06.png",
          "name":"anime_cortezz06",
          "collections": "Animes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op1.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op1.png",
+         "name":"cityscapes_gost2op1",
+         "collections": "Cityscapes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op2.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op2.png",
+         "name":"cityscapes_gost2op2",
+         "collections": "Cityscapes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op3.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op3.png",
+         "name":"cityscapes_gost2op3",
+         "collections": "Cityscapes",
+         "copyright": "Credits to its creator"
+      },
+	  {
+         "author": "gost2op",
+         "url": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op4.png",
+         "thumbnail": "https://raw.githubusercontent.com/Project-LegionOS/Walls/master/walls/gost2op/cityscapes_gost2op4.png",
+         "name":"cityscapes_gost2op4",
+         "collections": "Cityscapes",
          "copyright": "Credits to its creator"
       },
       {
